@@ -1,6 +1,6 @@
 ⚡ I am seeking a **PhD** position in CV/ML for the 2025 fall!
 ## Hi there 👋
-- Hello, I'm Anqi Li 👋 I'm a master's student at the School of CS at Beijing Jiaotong University.
+- 👋 Hello, I'm Anqi Li, a master's student at the School of CS at Beijing Jiaotong University.
 - 🔭 My primary research interests lie in the field of **image compression**. Currently, I am focused on projects related to **multimodal large language models (MLLM)**.
 - 📫 Contact: lianqi@bjtu.edu.cn
 -  ![lianqi1008](https://komarev.com/ghpvc/?username=lianqi1008)
