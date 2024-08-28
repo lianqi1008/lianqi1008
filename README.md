@@ -1,4 +1,3 @@
-⚡ I am seeking a **PhD** position in CV/ML for the 2025 fall!
 ## Hi there 👋
 - 👋 Hello, I'm Anqi Li, a master's student at the School of CS at Beijing Jiaotong University.
 - 🔭 My primary research interests lie in the field of **image compression**. Currently, I am focused on projects related to **multimodal large language models (MLLM)**.
