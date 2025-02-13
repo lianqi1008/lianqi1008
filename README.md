@@ -4,9 +4,14 @@
 - 📫 Contact: lianqi@bjtu.edu.cn
 -  ![lianqi1008](https://komarev.com/ghpvc/?username=lianqi1008)
 
-## Some Statistics About Me
+<!--## Some Statistics About Me
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=lianqi1008&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/lianqi1008/github-readme-stats)
+-->
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lianqi1008/Control-GIC,lianqi1008/MCM&type=Date)](https://star-history.com/#lianqi1008/Control-GIC&lianqi1008/MCM&Date)
 
 <!--
 **lianqi1008/lianqi1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
