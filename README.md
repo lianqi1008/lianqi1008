@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Anqi Li 👋
 - 👋 I'm a Master student in BJTU and a Ph.D candidate in SJTU.
 - 🔭 My research interests lie in the field of image compression and MLLM.
 - 📫 Contact: lianqi@bjtu.edu.cn
