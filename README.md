@@ -1,9 +1,9 @@
-## Hi, I'm Anqi Li 👋
-- 👋 I'm a Master student in BJTU and a Ph.D candidate in SJTU.
+<!--## Hi, I'm Anqi Li 👋
+- 👋 I'm a Ph.D candidate at SJTU.
 - 🔭 My research interests lie in the field of image compression and MLLM.
-- 📫 Contact: lianqi@bjtu.edu.cn
+- 📫 Contact: anqi.li@sjtu.edu.cn
 -  ![lianqi1008](https://komarev.com/ghpvc/?username=lianqi1008)
-
+-->
 <!--## Some Statistics About Me
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=lianqi1008&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/lianqi1008/github-readme-stats)
