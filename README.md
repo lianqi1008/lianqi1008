@@ -1,6 +1,6 @@
 <!--## Hi, I'm Anqi Li 👋
 - 👋 I'm a Ph.D candidate at SJTU.
-- 🔭 My research interests lie in the field of image compression and MLLM.
+- 🔭 My research interests lie in the field of image compression and video generation.
 - 📫 Contact: anqi.li@sjtu.edu.cn
 -  ![lianqi1008](https://komarev.com/ghpvc/?username=lianqi1008)
 -->
