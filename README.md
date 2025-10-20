@@ -11,7 +11,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lianqi1008/Control-GIC,lianqi1008/MCM&type=Date)](https://star-history.com/#lianqi1008/Control-GIC&lianqi1008/MCM&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lianqi1008/Control-GIC,lianqi1008/MCM,lianqi1008/Hi-Guard&type=Date)](https://star-history.com/#lianqi1008/Control-GIC&lianqi1008/MCM&Date)
 
 <!--
 **lianqi1008/lianqi1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
