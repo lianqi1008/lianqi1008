@@ -7,7 +7,7 @@
 </div>
 
 * 🎓 Ph.D. candidate at **Shanghai Jiao Tong University**
-* 🔭 Research interests: **Image Compression · Video Generation · Multimodal Large Language Models**
+* 🔭 Research interests: **Video Generation · Multimodal Large Language Models**
 * 📫 **[anqi.li@sjtu.edu.cn](mailto:anqi.li@sjtu.edu.cn)**
 
 <div align="center">
