@@ -1,18 +1,14 @@
 <div align="center">
 
-# Hi, I'm Anqi Li 👋
+# Anqi Li
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=Ph.D.+Candidate+%40+SJTU;Image+Compression+%7C+Video+Generation;Multimodal+Learning+%7C+Generative+Models)](https://git.io/typing-svg)
+Ph.D. candidate @ Shanghai Jiao Tong University
 
-</div>
+**Generative Image Compression · Video Generation · Multimodal LLMs**
 
-* 🎓 Ph.D. candidate at **Shanghai Jiao Tong University**
-* 🔭 Research interests: **Video Generation · Multimodal Large Language Models**
-* 📫 **[anqi.li@sjtu.edu.cn](mailto:anqi.li@sjtu.edu.cn)**
+[Homepage](https://lianqi1008.github.io/) · [Email](mailto:anqi.li@sjtu.edu.cn)
 
-<div align="center">
-
-### 🐍 Contributions
+<br>
 
 <picture>
   <source
@@ -24,9 +20,11 @@
     srcset="https://raw.githubusercontent.com/lianqi1008/lianqi1008/output/github-contribution-grid-snake.svg"
   >
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution graph"
     src="https://raw.githubusercontent.com/lianqi1008/lianqi1008/output/github-contribution-grid-snake.svg"
   >
 </picture>
 
 </div>
+
+<!-- you found the latent space. -->
