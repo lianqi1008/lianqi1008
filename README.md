@@ -2,14 +2,12 @@
 
 # Anqi Li
 
-Ph.D. candidate @ Shanghai Jiao Tong University
+<sub>Ph.D. candidate @ Shanghai Jiao Tong University</sub>
 
 **Generative Image Compression · Video Generation · Multimodal LLMs**
 
 [Homepage](https://lianqi1008.github.io/) · [Email](mailto:anqi.li@sjtu.edu.cn)
-
 <br>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
