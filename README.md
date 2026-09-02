@@ -1,29 +1,23 @@
-<!--## Hi, I'm Anqi Li 👋
-- 👋 I'm a Ph.D candidate at SJTU.
-- 🔭 My research interests lie in the field of image compression and video generation.
-- 📫 Contact: anqi.li@sjtu.edu.cn
--  ![lianqi1008](https://komarev.com/ghpvc/?username=lianqi1008)
--->
-<!--## Some Statistics About Me
+<div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=lianqi1008&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/lianqi1008/github-readme-stats)
--->
+# Hi, I'm Anqi Li 👋
 
-## Star History
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=Ph.D.+Candidate+%40+SJTU;Image+Compression+%7C+Video+Generation;Multimodal+Learning+%7C+Generative+Models)](https://git.io/typing-svg)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lianqi1008/Control-GIC,lianqi1008/MCM,lianqi1008/Hi-Guard&type=Date)](https://star-history.com/#lianqi1008/Control-GIC&lianqi1008/MCM&Date)
+</div>
 
-<!--
-**lianqi1008/lianqi1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Ph.D. candidate at **Shanghai Jiao Tong University**
+* 🔭 Research interests: **Image Compression · Video Generation · Multimodal Large Language Models**
+* 📫 **[anqi.li@sjtu.edu.cn](mailto:anqi.li@sjtu.edu.cn)**
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lianqi1008/lianqi1008/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lianqi1008/lianqi1008/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lianqi1008/lianqi1008/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
